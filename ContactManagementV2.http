@@ -1,0 +1,6 @@
+@ContactManagementV2_HostAddress = http://localhost:5132
+
+GET {{ContactManagementV2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
